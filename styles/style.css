@@ -1,3 +1,18 @@
+@font-face {
+    font-family: 'GilroyBold';
+    src: url('./font/FontsFree-Net-Gilroy-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GilroyHeavy';
+    src: url('./font/FontsFree-Net-Gilroy-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GilroyRegular';
+    src: url('./font/FontsFree-Net-Gilroy2.ttf') format('truetype');
+}
+
 .heading{
     display: flex;
     padding-top: 40px;
@@ -12,10 +27,30 @@
 .h_tag{
     /* background-color: #FFDB5E; */
     display: flex;
+    font-family:'GilroyBold';
     justify-content: center;
-    /* width: fit-content; */
     font-size: xx-large;
     padding-left: 10px;
     padding-right: 10px;
 
+}
+
+.h_tag2{
+    color: white;
+    font-family:'GilroyHeavy';
+    font-size: 73px;
+    width: 67%;
+    /* width: 1018px; */
+    text-align: center;
+}
+
+.AI{
+    display: flex;
+    justify-content: center;
+}
+.hours{
+    color: white;
+    font-family: 'GilroyRegular';
+    width: 67%;
+    font-size: 25px;
 }
