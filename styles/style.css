@@ -28,6 +28,8 @@
     align-items: center;
     justify-content: center;
     font-size: xx-large;
+    font-family:'GilroyBold';
+    
 }
 .h_tag{
     /* background-color: #FFDB5E; */
@@ -69,4 +71,17 @@
     position: relative;
     padding-top: 120px;
     clip-path: polygon(30% 40%, 150% 80%, 0% 78%);
+}
+
+.laptop{
+    width: 65%;
+    border: 20px solid white;
+    background-color: rgba(128, 0, 128, 0.3);
+    position: absolute;
+}
+
+.laptop_div{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
 }
