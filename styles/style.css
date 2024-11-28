@@ -1,0 +1,21 @@
+.heading{
+    display: flex;
+    padding-top: 40px;
+    justify-content: center;
+}
+.heading_h{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+.h_tag{
+    /* background-color: #FFDB5E; */
+    display: flex;
+    justify-content: center;
+    /* width: fit-content; */
+    font-size: xx-large;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
