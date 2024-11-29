@@ -311,3 +311,9 @@ h1 {
     width: 100%;
     border-radius: 5px;
 }
+
+.footer{
+    background: url('./7031fe63aa0d64877b0c0982aa140708.jpeg') no-repeat center center/cover;
+    position: relative;
+    height: 300px;
+}
