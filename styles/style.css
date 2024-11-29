@@ -174,7 +174,7 @@
 }
 
 .local{
-    font-family: 'GilroyRegular';
+    font-family: 'GilroyBold';
     font-size: 18px;
 }
 
@@ -310,6 +310,7 @@ h1 {
 .card img {
     width: 100%;
     border-radius: 5px;
+    object-fit:contain;
 }
 
 .footer{
