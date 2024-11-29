@@ -60,6 +60,8 @@
     font-family: 'GilroyRegular';
     width: 67%;
     font-size: 25px;
+    text-align: center;
+    
 }
 
 .section-container {
@@ -99,10 +101,59 @@
     width: 246px;
     height: 177px;
     background-color: #FFDC5E;
+    margin-top: 80px;
 }
 .orange{
     width: 246px;
     height: 177px;
     background-color: #FF5811;
     margin-top: -90px;
+}
+
+.book{
+    height: 431.14px;
+    /* margin-top: -80px; */
+    margin-left: -160px;
+}
+
+.bookside{
+    display: flex;
+    width: fit-content;
+}
+
+.nparea{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #221E3A;
+    padding-top:70px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 50px;
+}
+
+.rights{
+    color: #33256C;
+    background-color: #FFDB5E;
+    font-weight: 600;
+    font-size: 24px;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    font-family: 'GilroyBold';
+}
+
+.rgtag{
+    display: flex;
+    justify-content: center;
+}
+
+.hours2{
+    color: white;
+    font-family: 'GilroyRegular';
+    width: 67%;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
 }
