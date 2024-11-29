@@ -77,7 +77,7 @@
     width: 65%;
     border: 20px solid white;
     background-color: rgba(128, 0, 128, 0.3);
-    position: absolute;
+    /* position: absolute; */
 }
 
 .laptop_div{
@@ -93,4 +93,16 @@
     .h_tag2{
         color: rgb(139, 73, 189);
     }
+}
+
+.yellow{
+    width: 246px;
+    height: 177px;
+    background-color: #FFDC5E;
+}
+.orange{
+    width: 246px;
+    height: 177px;
+    background-color: #FF5811;
+    margin-top: -90px;
 }
