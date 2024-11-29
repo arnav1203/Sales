@@ -13,6 +13,10 @@
     src: url('./font/FontsFree-Net-Gilroy2.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./font/Montserrat-ExtraBold.ttf') format('truetype');
+}
 .bg_image{
     width: 100%;
     position: absolute;
@@ -95,6 +99,9 @@
     .h_tag2{
         color: rgb(139, 73, 189);
     }
+    .nparea{
+        display: block;
+    }
 }
 
 .yellow{
@@ -156,4 +163,26 @@
     font-size: 20px;
     text-align: center;
     margin-top: 20px;
+}
+
+.cartAI{
+    color: white;
+    font-family: Montserrat;
+    font-size: 26px;
+}
+
+.local{
+    font-family: 'GilroyRegular';
+    font-size: 18px;
+}
+
+.cart_container{
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width:1024px){
+    .nparea{
+        display: block;
+    }
 }
