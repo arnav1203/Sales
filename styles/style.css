@@ -316,4 +316,12 @@ h1 {
     background: url('./7031fe63aa0d64877b0c0982aa140708.jpeg') no-repeat center center/cover;
     position: relative;
     height: 300px;
+    margin-left: 150px;
+}
+
+.footer_text{
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+    width: 34%;
 }
