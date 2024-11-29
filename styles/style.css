@@ -85,3 +85,12 @@
     display: flex;
     justify-content: center;
 }
+
+@media (max-width:1024px){
+    .hours{
+        color: black;
+    }
+    .h_tag2{
+        color: rgb(139, 73, 189);
+    }
+}
