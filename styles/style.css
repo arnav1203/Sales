@@ -216,3 +216,34 @@
     color: white;
     font-family: 'GilroyRegular';
 }
+
+.comment{
+    border:  20px solid white;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin-top: 97px;
+    border-radius: 10px;
+}
+
+.page{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.gif{
+    display: flex;
+    justify-content: end;
+}
+@media (max-width:1024px)
+{
+    .page{
+        display: block;
+    }
+    .page2{
+        margin-top: 20px;
+    }
+    .gif{
+        justify-content: start;
+    }
+}
