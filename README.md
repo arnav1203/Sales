@@ -65,6 +65,12 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ---
 
+## Assignment Details
+You can find the assignment details in the following document:
+[Download Assignment Details](./Assignment_Details.pdf)
+
+---
+
 ### 📞 Contact
 For any inquiries, please reach out to arnav.asthana12@gmail.com or visit https://arnav-asthana.netlify.app/.
 
