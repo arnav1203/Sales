@@ -73,7 +73,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: white; /* Background matching the circuit theme */
+    background-color: white;
     position: relative;
     padding-top: 120px;
     clip-path: polygon(30% 40%, 150% 80%, 0% 78%);
@@ -282,7 +282,7 @@ h1 {
 }
 
 .highlight {
-    color: #ff5733; /* Orange for emphasis */
+    color: #ff5733;
     font-weight: bold;
     text-decoration: underline;
 }
@@ -306,7 +306,7 @@ h1 {
     padding: 20px;
     width: 40%;
     text-align: center;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
 .card_text{
