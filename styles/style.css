@@ -1,21 +1,21 @@
 @font-face {
     font-family: 'GilroyBold';
-    src: url('./font/FontsFree-Net-Gilroy-Bold.ttf') format('truetype');
+    src: url('/font/FontsFree-Net-Gilroy-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'GilroyHeavy';
-    src: url('./font/FontsFree-Net-Gilroy-Heavy.ttf') format('truetype');
+    src: url('/font/FontsFree-Net-Gilroy-Heavy.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'GilroyRegular';
-    src: url('./font/FontsFree-Net-Gilroy2.ttf') format('truetype');
+    src: url('/font/FontsFree-Net-Gilroy2.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('./font/Montserrat-ExtraBold.ttf') format('truetype');
+    src: url('/font/Montserrat-ExtraBold.ttf') format('truetype');
 }
 .bg_image{
     width: 100%;
@@ -338,7 +338,7 @@ h1 {
 }
 
 .footer{
-    background: url('./7031fe63aa0d64877b0c0982aa140708.jpeg') no-repeat center center/cover;
+    background: url('/assets/7031fe63aa0d64877b0c0982aa140708.jpeg') no-repeat center center/cover;
     position: relative;
     height: 300px;
     margin-left: 150px;
