@@ -67,7 +67,7 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ## Assignment Details
 You can find the assignment details in the following document:
-[Download Assignment Details](./Assignment_Details.pdf)
+[Assignment Details](./Assignment_Details.pdf)
 
 ---
 
