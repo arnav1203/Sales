@@ -62,6 +62,10 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ### 🎨 Screenshots
 ![Screenshot of the Landing Page](./assets/Landingpage.png)
+![Screenshot2 of the Landing Page](./assets/Landingpage3.png)
+![Screenshot3 of the Landing Page](./assets/Landingpage2.png)
+
+
 
 ---
 
